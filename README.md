@@ -11,7 +11,7 @@ For this assignment, I used Python in Jupyter Notebooks and the Pandas library. 
 ## Results
 First, I combined the city and ride data into one dataset: 
 
-  ![](./analysis/DataFrame.png)  
+  ![](./analysis/DataFrame1.png)  
 
 From this I conclude:
 
