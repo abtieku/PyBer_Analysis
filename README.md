@@ -32,7 +32,7 @@ From this I conclude:
 -  Urban and Suburban fares go up after the new year, whereas Rural fares go down.
 -  All city types have a surge around the third week of February. This could be due to President's Week, which most schools recognize as a holiday. 
 -  Urban and Suburban fares have spikes the third week of March. This could be due to people visiting bars on St. Patrick's Day.
--  Unlike Suburban fares, Urban and Rural fares have a spike around April 1. i
+-  Unlike Suburban fares, Urban and Rural fares have a spike around April 1. 
 
 ## Summary
 By looking at the data, my business recommendations to the CEO are:
